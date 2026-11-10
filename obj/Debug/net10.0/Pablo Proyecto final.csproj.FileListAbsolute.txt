@@ -1,0 +1,15 @@
+C:\Users\jopah\source\repos\Pablo Proyecto final\bin\Debug\net10.0\Pablo Proyecto final.exe
+C:\Users\jopah\source\repos\Pablo Proyecto final\bin\Debug\net10.0\Pablo Proyecto final.deps.json
+C:\Users\jopah\source\repos\Pablo Proyecto final\bin\Debug\net10.0\Pablo Proyecto final.runtimeconfig.json
+C:\Users\jopah\source\repos\Pablo Proyecto final\bin\Debug\net10.0\Pablo Proyecto final.dll
+C:\Users\jopah\source\repos\Pablo Proyecto final\bin\Debug\net10.0\Pablo Proyecto final.pdb
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.AssemblyInfoInputs.cache
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.AssemblyInfo.cs
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.dll
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\refint\Pablo Proyecto final.dll
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.pdb
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Proyecto final.genruntimeconfig.cache
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\ref\Pablo Proyecto final.dll
+C:\Users\jopah\source\repos\Pablo Proyecto final\obj\Debug\net10.0\Pablo Pr.F27BC46B.Up2Date
